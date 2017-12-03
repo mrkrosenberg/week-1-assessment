@@ -1,3 +1,38 @@
+header {
+	background-image: url("../images/bgtile.png");
+	height: 200px;
+	width: 100%;
+}
+
+button {
+	float: right;
+	margin: 100px 40px 75px 40px;
+
+}
+
+.home {
+	margin: auto 2px;
+}
+
+.brand {
+	margin: 100px 40px 75px 40px;
+}
+
+h1 {
+	float: right;
+}
+
+.phones {
+	float: left;
+	clear: left;
+}
+
+.content {
+	float: right;
+	clear: right;
+}
+
+
 li {
 	list-style-type: none;
 }
