@@ -1,0 +1,79 @@
+header {
+	background-image: url("../images/bgtile.png");						//header-back ground settings	
+	height: 300px;
+	width: 100%;
+}
+
+button {
+	float: right;													//button positioning
+	margin: 140px 100px 90px 40px;
+	background-image: url(../images/bgtile.png);					//button image
+}
+
+h1 {
+	float: right;													//move heading to theright
+}
+
+li {
+	list-style-type: none;
+	display: inline-block;											//setting the format for the list items
+}
+
+a {
+	text-decoration: none;										//taking underlines out of the list items (links)
+}
+
+.header {
+	height: 300px;
+	width: 100%;
+}
+
+.home {
+	margin: auto 2px;
+}
+
+.brand {
+	margin: 100px 40px 75px 0;
+}
+
+.login {
+	display: inline;
+	padding: 2px;
+
+}
+
+.main {
+	height: 200px;
+}
+
+.phones {
+	margin: -100px 10px 20px 90px;
+
+}
+
+.content {																	//focusing on formatting for the main material on the site
+    float: right;
+    clear: left;
+    width: 300px;
+    padding: 10px 80px 0 10px;
+    margin: -50px 130px 0 0;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 26px -7px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 26px -7px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 26px -7px rgba(0,0,0,0.75);
+}
+
+.badge {															//figuring out dynamic sizing for the pic
+	width: 30%;
+}
+
+.class {
+	text-align: center;
+	text-decoration: none;
+	margin: 10px;
+}
+
+
+
